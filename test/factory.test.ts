@@ -4,7 +4,7 @@ describe('Pattern Factory test', () => {
     
     it("should be return Marc a commandé Pizza au fromage style Brest", () => {
         const app = new App();
-        expect(app.pizzeriaFromageStyleBrest()).toBe("Marcgit  a commandé Pizza au fromage style Brest");
+        expect(app.pizzeriaFromageStyleBrest()).toBe("Marc  a commandé Pizza au fromage style Brest");
     });
 
 

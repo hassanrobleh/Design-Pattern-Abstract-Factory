@@ -17,8 +17,6 @@ export class PizzaFromage extends Pizza  {
         this.fabriqueIngredients.creerFromage();
         
         return `Préparation de ${this.nom}`;
-
-        // return prepare;
     }
 
 }

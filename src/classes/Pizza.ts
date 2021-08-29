@@ -17,8 +17,8 @@ export abstract class Pizza {
         return "Emballage dans une boîte officielle";
     }
 
-    setNom(n: string) {
-        this.nom = n;
+    setNom(nom: string) {
+        this.nom = nom;
     }
 
     getNom() {
