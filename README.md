@@ -7,7 +7,7 @@ classe concrète.
 
 ```bash
 $ git clone https://github.com/hassanrobleh/Design-Pattern-Abstract-Factory.git
-$ cd Design_pattern-ABSTRACT-FACTORY
+$ cd Design_pattern-Abstract-Factory
 $ npm install
 $ npm run test
 ```
