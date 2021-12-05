@@ -8,6 +8,6 @@ classe concrète.
 $ git clone https://github.com/hassanrobleh/Design-Pattern-Abstract-Factory.git
 $ cd Design-Pattern-Abstract-Factory
 $ npm install
-$ npm run teste
+$ npm run test
 ```
 
